@@ -1,8 +1,9 @@
 var greeting = "Hello, everybody!";
 
 var specialGuest = "Neil deGrasse Tyson"
+`Hello, ${specialGust}!`
 
-var greetSpecialGuest = "" + specialGuest + "!";
+var greetSpecialGuest = "Hello" + specialGuest + "!";
 
 var topic = "space";
 
